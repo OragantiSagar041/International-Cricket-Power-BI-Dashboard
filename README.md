@@ -17,4 +17,4 @@ Power BI | DAX | Power Query | Data Visualization
 Download the .pbix file and open in Power BI Desktop to explore insights interactively.
 
 Output : 
-<img width="795" height="667" alt="image" src="https://github.com/user-attachments/assets/d79ef2b2-5902-4c65-9b16-a6020db8403b" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d79ef2b2-5902-4c65-9b16-a6020db8403b" />
